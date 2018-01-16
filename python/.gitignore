@@ -1,0 +1,4 @@
+.idea/
+MNIST-data/
+__pycache__
+_venv
