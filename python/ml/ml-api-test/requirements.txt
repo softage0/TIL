@@ -3,7 +3,7 @@ aniso8601==4.0.1
 astor==0.7.1
 astroid==2.1.0
 Click==7.0
-Flask==1.0.2
+Flask==2.3.2
 Flask-RESTful==0.3.6
 gast==0.2.0
 grpcio==1.16.1
